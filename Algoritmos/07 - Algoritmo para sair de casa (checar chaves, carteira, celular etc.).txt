@@ -1,0 +1,7 @@
+-Checar se está com as chaves.
+-checar se a carteira está com dinheiro e documento.
+-Checar se o celular está com bateria e com dados moveis.
+-verificar se desligou os eletrônicos da casa, para não gastar energia.
+-verificar se as janelas estão fechadas e trancadas.
+-avisar a algum amigo ou familiar para onde está indo, por fins de segurança.
+-E por ultimo trancar a porta.
